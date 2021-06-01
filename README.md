@@ -1,3 +1,3 @@
 # Moredoor
 Informatiebord voor de pakketbezorger
-pls help, hoe werkt dit?
+# pls help, hoe werkt dit?
